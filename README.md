@@ -4,14 +4,17 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 🔭 currently working with: 
 - figma
 - procreate/ibispaint
-- blender/vectary
-- adobe illustrator
-- physical media (scrapbooking/collaging/painting/magazines/zines/combining multiple forms of media)
+- canva
+- blender
+- adobe illustrator (beginner)
+- physical media (scrapbooking/collaging/zines/crafts/combining multiple forms)
 
  🌱 currently learning:
 - html/css/javascript (no framework)
 - cybersecurity and cyberspace law
 - introduction to linux (recent transition)
+- introduction to music production w ableton
+- introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
