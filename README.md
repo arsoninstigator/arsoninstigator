@@ -32,8 +32,7 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - advocating for women's rights (w a research focus on mvaw&g)
 
  📫 contact me:
-- send me a direct [email](mailto:whteflr@proton.me) and i'll get back to you asap
-- contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK) since i'm most active there
+send me an [email](mailto:whteflr@proton.me) or contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
