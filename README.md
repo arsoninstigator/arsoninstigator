@@ -1,4 +1,4 @@
-## hello, i'm anne 👋👩‍🦼
+## hello, i'm anne 👋♿
 my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm interested in pursuing a career in cybercriminal law.
 
 🔭 currently working with: 
@@ -15,7 +15,8 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - edabit.com coding challenges
 - building my portfolio to document progress & freelance in future
 - personal projects combining my interest in art & tech
-- making my way through online courses in my pre-planned cybersecurity roadmap 
+- making my way through online courses in my pre-planned cybersecurity roadmap
+- overall getting my life together
 
  🌱 currently learning:
 - html/css/javascript (no framework) + python (basic)
@@ -32,6 +33,7 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 
  📫 contact me:
 - send me a direct [email](mailto:whteflr@proton.me) and i'll get back to you asap
+- contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK) since i'm most active there
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
