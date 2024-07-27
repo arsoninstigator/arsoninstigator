@@ -17,11 +17,10 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - introduction to music production w ableton
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
-  👯 hobbies and interests:
+👯 hobbies and interests:
 - learning foreign languages (i speak 5+ and am learning more)
 - songwriting and music production
-- collecting knives and fancy blades
-- advocating for women's and disability rights in the global south
+- advocating for women's and disability rights
 
  📫 contact me:
 - send me a direct [email](mailto:whteflr@proton.me) and i'll get back to you asap
