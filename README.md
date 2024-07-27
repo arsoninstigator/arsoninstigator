@@ -10,9 +10,9 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 
 🥐 currently working on:
 - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects
-- #100daysofcode challenge (through online courses)
-- edabit.com coding challenges
+- #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
+- recording/writing/editing/recording again and making my own music
 - personal projects combining my interest in art & tech
 
  🌱 currently learning:
@@ -24,8 +24,11 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
 👯 hobbies and interests:
-- learning foreign languages (i speak 5+ and am learning more)
-- songwriting, composing and music production
+- learning foreign languages (i speak 5+, learning more)
+- listening to taylor swift & true crime podcasts
+- talking to cats (from a safe distance bc im SCARED!!!)
+- songwriting, composing on the piano and music production
+- drinking coffee, iced tea & diet coke; eating pasta, chilli potato & barbeque chips
 - advocating for women's rights (w a research focus on mvaw&g)
 
  📫 contact me:
