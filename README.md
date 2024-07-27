@@ -3,20 +3,17 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 
 🔭 currently working with: 
 - figma
-- procreate/ibispaint
-- canva
+- procreate/ibispaint/canva
 - blender
 - adobe illustrator (beginner)
 - physical media (scrapbooking/collaging/zines/crafts/combining multiple forms)
 
 🥐 currently working on:
 - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects
-- #100daysofcode challenge
+- #100daysofcode challenge (through online courses)
 - edabit.com coding challenges
-- building my portfolio to document progress & freelance in future
+- building a roadmap to my goals & portfolio to document progress
 - personal projects combining my interest in art & tech
-- making my way through online courses in my pre-planned cybersecurity roadmap
-- overall getting my life together
 
  🌱 currently learning:
 - html/css/javascript (no framework) + python (basic)
