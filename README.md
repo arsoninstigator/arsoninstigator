@@ -1,6 +1,5 @@
 ## hello, i'm anne 👋
-my pronouns are she/her and i'm a high school senior (graduating in december '24)
-- i'm currently located in india (planning to move for uni) to pursue a career in criminal law.
+my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm currently located in india (planning to move for uni) to pursue a career in criminal law.
 
 
 <!--
