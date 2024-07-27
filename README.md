@@ -1,7 +1,12 @@
 ## hello, i'm anne 👋
 my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm located in india hoping to pursue a career in criminal law.
 
-🔭 currently working with: figma, illustrator
+🔭 currently working with: 
+- figma
+- procreate/ibispaint
+- blender/vectary
+- adobe illustrator
+- physical media (scrapbooking/collaging/painting/magazines/zines/combining multiple forms of media)
 
  🌱 currently learning:
 - html/css/javascript (no framework)
