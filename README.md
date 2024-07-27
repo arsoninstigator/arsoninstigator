@@ -1,6 +1,12 @@
 ## hello, i'm anne 👋
-my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm currently located in india (planning to move for uni) to pursue a career in criminal law.
+my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm located in india hoping to pursue a career in criminal law.
 
+🔭 currently working with: figma, illustrator
+
+ 🌱 currently learning:
+- html/css/javascript (no framework)
+- cybersecurity and cyberspace law
+- introduction to linux (recent transition)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
