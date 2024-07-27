@@ -11,13 +11,14 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 
  🌱 currently learning:
 - html/css/javascript (no framework)
-- cybersecurity and cyberspace law
+- introductory cybersecurity concepts (fall'24 bootcamp)
+- data privacy and cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
  📫 contact me:
-- email: [whteflr(at)proton(dot)me](mailto:whteflr@proton.me)
+- [send me an email](mailto:whteflr@proton.me)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
