@@ -26,9 +26,8 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 👯 hobbies and interests:
 - learning foreign languages (i speak 5+, learning more)
 - listening to taylor swift & true crime podcasts
-- talking to cats (from a safe distance bc im SCARED!!!)
 - songwriting, composing on the piano and music production
-- drinking coffee, iced tea & diet coke; eating pasta, chilli potato & barbeque chips
+- drinking my eleventh cup of coffee for the day
 - advocating for women's rights (w a research focus on mvaw&g)
 
  📫 contact me:
