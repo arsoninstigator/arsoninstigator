@@ -1,5 +1,5 @@
 ## hello, i'm anne 👋♿
-my pronouns are she/her and i'm a high school senior (graduating in december '24). i'm interested in pursuing a career in cybercriminal law.
+my pronouns are she/her and i'm a high school senior (graduating in december '24). future criminal defense attorney
 
 🔭 currently working with: 
 - figma
