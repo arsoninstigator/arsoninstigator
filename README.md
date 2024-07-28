@@ -24,10 +24,10 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
 👯 hobbies and interests:
-- learning foreign languages (i speak 5+, learning more)
-- listening to taylor swift & true crime podcasts
-- songwriting, composing on the piano and music production
-- drinking my eleventh cup of coffee for the day
+- learning foreign languages (i speak 5 and am learning more)
+- listening to taylor swift and true crime podcasts (here's my last.fm)
+- songwriting, composing on the piano and producing music
+- drinking my 11th cup of coffee & 8th can of diet coke for the day
 - advocating for women's rights (w a research focus on mvaw&g)
 
  📫 contact me:
