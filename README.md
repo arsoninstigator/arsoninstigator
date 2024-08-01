@@ -1,5 +1,5 @@
-## hello, i'm anne 👋♿
-my pronouns are she/her and i'm a high school senior (graduating in december '24). future criminal defense attorney 🤞🧿
+## hello, i'm anne 👋🏳️‍🌈♿
+my pronouns are she/her and i'm a non traditional indian high school senior (graduating in december '24).
 
 🔭 currently working with: 
 - figma
@@ -23,6 +23,12 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - introduction to music production w ableton
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 
+💌 goals and aspirations:
+- get ipad + flipper zero as prizes through #arcade at hack club 🤞🧿
+- attend uni & complete undergrad w a major in criminal justice (near future)
+- attend law school at a t15 uni and graduate w/o student debt (long-term)
+- pursue a career in cybercriminal law & become a criminal defense attorney (long-term)
+
 👯 hobbies and interests:
 - learning foreign languages (i speak 5 and am learning more)
 - listening to taylor swift and true crime podcasts (here's my last.fm)
@@ -31,7 +37,7 @@ my pronouns are she/her and i'm a high school senior (graduating in december '24
 - advocating for women's rights (w a research focus on mvaw&g)
 
  📫 contact me:
-send me an [email](mailto:whteflr@proton.me) or contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
+send me an [email](mailto:arsoninstigator@proton.me) or contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
