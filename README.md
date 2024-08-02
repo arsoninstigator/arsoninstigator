@@ -1,10 +1,10 @@
-## hello, i'm anne 👋🏳️‍🌈♿
-my pronouns are she/her and i'm a non traditional indian high school senior (graduating in december '24).
+## hello, i'm anne 👋♿
+my pronouns are she/her and i'm a non traditional desi high school senior (graduating in december '24).
 
 🔭 currently working with: 
 - figma
 - procreate/ibispaint/canva
-- blender
+- blender (beginner)
 - adobe illustrator (beginner)
 - physical media (scrapbooking/collaging/zines/crafts/combining multiple forms)
 
@@ -31,13 +31,12 @@ my pronouns are she/her and i'm a non traditional indian high school senior (gra
 
 👯 hobbies and interests:
 - learning foreign languages (i speak 5 and am learning more)
-- listening to taylor swift and true crime podcasts (here's my last.fm)
-- songwriting, composing on the piano and producing music
-- drinking my 11th cup of coffee & 8th can of diet coke for the day
-- advocating for women's rights (w a research focus on mvaw&g)
+- watching classic films that are murder mysteries / police procedurals
+- listening to taylor swift and true crime podcasts (look @ my last.fm)
+- linguistics (esp etymology), evolution of weapons of mass destruction & criminology
 
  📫 contact me:
-send me an [email](mailto:arsoninstigator@proton.me) or contact me on [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
+send me an [email](mailto:arsoninstigator@proton.me), connect w me on pinterest, discord, goodreads, spotify etc. or contact me via [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
