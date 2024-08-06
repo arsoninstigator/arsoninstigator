@@ -21,13 +21,16 @@ my pronouns are she/her and i'm a non traditional high school senior (graduating
 - data privacy and cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
+
+👾 want to learn (in the future):
+- filmmaking / video recording + editing 
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
+- introduction to microcontrollers (arduino uno / pi pico) + code using micropython 
+- building your own gaming pc / mechanical keyboard
+- working with a simple cnc machine / 3d printer / laser cutter
 
 💌 goals:
 - get ipad + flipper zero as prizes through #arcade at hack club 🤞🧿
-- attend uni & complete undergrad w a major in criminal justice (near future)
-- attend law school at a t15 uni and graduate w/o student debt (long-term)
-- pursue a career in cybercriminal law & become a criminal defense attorney (long-term)
 
 👯 hobbies and interests:
 - learning foreign languages (i speak 5 and am learning more)
