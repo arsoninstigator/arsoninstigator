@@ -26,17 +26,17 @@ my pronouns are she/her and i'm a non traditional high school senior (graduating
 - filmmaking / video recording + editing 
 - introduction to electronics (w printed circuit boards @easyeda + inkspace)
 - introduction to microcontrollers (arduino uno / pi pico) + code using micropython 
-- building your own gaming pc / mechanical keyboard
-- working with a simple cnc machine / 3d printer / laser cutter
+- building your personal gaming pc / mechanical keyboard
 
 💌 goals:
 - get ipad + flipper zero as prizes through #arcade at hack club 🤞🧿
 
 👯 hobbies and interests:
-- learning foreign languages (i speak 5 and am learning more)
-- watching classic films that are murder mysteries / police procedurals
+- learning foreign languages (i speak 4 and am learning more)
+- watching classic films, murder mysteries and police procedurals
 - listening to taylor swift and true crime podcasts (look @ my last.fm)
-- linguistics (esp etymology), evolution of weapons of mass destruction, criminology
+- jewelry design and jewelry making (beaded, hand-carved wax + sandcasting)
+- linguistics (esp etymology), personal finance, evolution of weaponry & criminology
 
  📫 contact me:
 send me an [email](mailto:arsoninstigator@proton.me), or contact me via [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
