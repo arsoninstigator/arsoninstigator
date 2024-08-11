@@ -1,5 +1,5 @@
 ## hello, i'm anne 👋♿
-my pronouns are she/her and i'm a non traditional high school senior (graduating in december '24).
+i'm a non traditional high school senior (graduating in december '24) who is new to tech stuff.
 
 🔭 currently working with: 
 - figma
