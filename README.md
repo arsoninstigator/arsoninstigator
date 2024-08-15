@@ -1,12 +1,12 @@
 ## hello, i'm anne 👋♿
-i'm a non traditional high school senior (graduating in december '24) who is new to tech stuff.
+i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
 
 🔭 currently working with: 
 - figma
 - procreate/ibispaint/canva
 - blender (beginner)
 - adobe illustrator (beginner)
-- physical media (scrapbooking/collaging/zines/crafts/combining multiple forms)
+- physical media (scrapbooking/collaging/crafting/combining multiple forms)
 
 🥐 currently working on:
 - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects
@@ -36,7 +36,6 @@ i'm a non traditional high school senior (graduating in december '24) who is new
 - watching classic films, murder mysteries and police procedurals
 - listening to taylor swift and true crime podcasts (look @ my last.fm)
 - jewelry design and jewelry making (beaded, hand-carved wax + sandcasting)
-- linguistics (esp etymology), personal finance, evolution of weaponry & criminology
 
  📫 contact me:
 send me an [email](mailto:arsoninstigator@proton.me), or contact me via [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
