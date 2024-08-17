@@ -4,7 +4,7 @@ i'm a non traditional high school senior (graduating in december '24) from india
 🔭 currently working with: 
 - figma
 - procreate/ibispaint/canva
-- blender (beginner)
+- blender
 - adobe illustrator (beginner)
 - physical media (scrapbooking/collaging/crafting/combining multiple forms)
 
