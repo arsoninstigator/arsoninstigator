@@ -16,16 +16,17 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - personal projects combining my interest in art & tech
 
  🌱 currently learning:
-- html/css/javascript (no framework) + python (basic)
+- html/css/javascript (vanilla/no framework) + python (basic)
 - introductory cybersecurity concepts (fall'24 bootcamp)
 - data privacy and cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
+- tools for ongoing #ysws programs at hack club (sprig, onboard, blot)
 
 👾 want to learn (in the future):
-- filmmaking / video recording + editing 
-- introduction to electronics (w printed circuit boards @easyeda + inkspace)
-- introduction to microcontrollers (arduino uno / pi pico) + code using micropython 
+- introduction to electronics (w printed circuit boards @easyeda + kicad)
+- introduction to microcontrollers (arduino nano, esp32, raspberry pi pico)
+- combining software with hardware within the same project (micropython, .ino) 
 - building your personal gaming pc / mechanical keyboard
 
 💌 goals:
