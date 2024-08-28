@@ -4,8 +4,8 @@ HI REVIEWER/HCB TEAM IM HOPING UR HAVING AN AWESOME DAY !!
 im currently (as of 08/28) planning out a project with an rpi but i'm so sad because i'll only be able to get the pieces all
 together after aracde ends. like i really like this silly little documentation process and in 10 years i can
 look back at what all i built and the hours i put into something like it's some sort of career time capsule
-(if that makes sense?). ok ykw im also so sad that i'll only be able to finish my sprig + blot + onboard + bin
-(+ potentially cider) after arcade is long over because the interconnected yet independent nature of these events
+(if that makes sense?). ok ykw im also so so upset that i'll only be able to finish my sprig + blot + onboard + bin
+(+ potentially cider) after arcade is long over because SCHOOL. the interconnected yet independent nature of these events
 is so cool (everyone say thank you zach). sorry for getting emotional on main tho, it will happen again :/
 ```
 
