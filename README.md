@@ -1,8 +1,8 @@
 ## hello, i'm anne 👋♿
-'''
+```
 HI REVIEWER/HCB TEAM IM HOPING UR HAVING AN AWESOME DAY !! <br>
 im currently (as of 08/28) planning out a project with an rpi but i'm so sad because i'll only be able to get the pieces together after aracde ends. like i really like this silly little documentation process and in 10 years i can look back at what i built and the hours i put into something like it's some sort of career time capsule (if that makes sense?). ok ykw im also sad that i'll only be able to finish my sprig + blot + onboard + bin (+ potentially cider) after arcade is long over because the interconnected yet independent nature of these events are so cool (everyone say thank you zach). sorry for getting emotional on main tho, it will happen again
-'''
+```
 
 i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
 
