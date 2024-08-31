@@ -1,5 +1,5 @@
 ## hello, i'm anne 👋♿
-ok so i've been asked to mention this so here's a disclaimer : i'm the special case of person who straight up <i>forgot*</i> to scrapbook sessions altogether. adhd be damned and executive disfunction is a bitch but i hope you'll bear w me as i sort through this mountain of unbanked sessions.
+ok so i've been asked to mention this so here's a disclaimer : i'm the special case of person who straight up <i>forgot*</i> to scrapbook sessions altogether. adhd be damned and executive disfunction is a bitch but i hope you'll bear w me as i sort through this mountain of unbanked sessions. <br>
 <i>* because i was too anxious to ship the 'final' product because it felt too permanent and, in my mind, it could be improved</i>
 ![image](https://github.com/user-attachments/assets/078b17c8-71bf-471d-b5e2-2003e56746dc)
 
