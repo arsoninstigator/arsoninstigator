@@ -1,5 +1,5 @@
 ## hello, i'm anne 👋♿
-ok so i've been asked to mention this so here's a disclaimer : i'm the special case of person who straight up <i>forgot*</i> to scrapbook sessions altogether who is now stuck with 300+ unbanked sessions with one day to go for scrapbooking. adhd be damned and executive disfunction is a HUGE bitch but i hope you'll bear w me as i sort through this mountain of sessions that helped me pick up a variety of new skills over the summer. <br>
+<!-- ok so i've been asked to mention this so here's a disclaimer : i'm the special case of person who straight up <i>forgot*</i> to scrapbook sessions altogether who is now stuck with 300+ unbanked sessions with one day to go for scrapbooking. adhd be damned and executive disfunction is a HUGE bitch but i hope you'll bear w me as i sort through this mountain of sessions that helped me pick up a variety of new skills over the summer. <br>
 <i>* because i was too anxious to ship the 'final' product because it felt too permanent and, in my mind, it could be improved</i>
 ![image](https://github.com/user-attachments/assets/078b17c8-71bf-471d-b5e2-2003e56746dc)
 
@@ -13,7 +13,7 @@ look back at what all i built and the hours i put into something like it's some 
 (+ potentially cider) after arcade is long over because SCHOOL. the interconnected yet independent nature of these events
 is so cool (everyone say thank you zach). sorry for getting emotional on main tho, it will happen again :/
 ```
-
+-->
 i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
 
 🔭 currently working with: 
@@ -28,6 +28,9 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/recording again and making my own music
+
+![60f7e540119bfb4735b4763d0c37001f](https://github.com/user-attachments/assets/babee5c6-4bec-4bb2-9e96-c8b1a6902c81)
+
 
  🌱 currently learning:
 - html/css/javascript (vanilla/no framework) + python (basic)
