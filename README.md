@@ -1,5 +1,4 @@
 ## hello, i'm anne 👋♿
-<link href="style.css" rel="stylesheet"></link>
 <!-- ok so i've been asked to mention this so here's a disclaimer : i'm the special case of person who straight up <i>forgot*</i> to scrapbook sessions altogether who is now stuck with 300+ unbanked sessions with one day to go for scrapbooking. adhd be damned and executive disfunction is a HUGE bitch but i hope you'll bear w me as i sort through this mountain of sessions that helped me pick up a variety of new skills over the summer. <br>
 <i>* because i was too anxious to ship the 'final' product because it felt too permanent and, in my mind, it could be improved</i>
 ![image](https://github.com/user-attachments/assets/078b17c8-71bf-471d-b5e2-2003e56746dc)
