@@ -15,14 +15,25 @@ is so cool (everyone say thank you zach). sorry for getting emotional on main th
 ```
 -->
 
+<link href="style.css" rel="stylesheet"></link>
+
 i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
 
-🔭 currently working with: 
-- figma
-- procreate/ibispaint/canva
-- blender
-- adobe illustrator (beginner)
-- physical media (scrapbooking/collaging/crafting/combining multiple forms)
+<table>
+    <tr>
+        <td>
+        🔭 currently working with: 
+            <ul>
+                <li>figma</li>
+                <li>procreate/ibispaint/canva</li>
+                <li>blender</li>
+                <li>adobe illustrator (beginner)</li>
+                <li>physical media (scrapbooking/collaging/crafting/combining multiple forms)</li>
+            </ul>
+        </td>
+        <td><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></td>
+    </tr>
+</table>
 
 🥐 currently working on:
 - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects
@@ -30,7 +41,7 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/recording again and making my own music
 
-<div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>
+<!-- <div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>-->
 
  🌱 currently learning:
 - html/css/javascript (vanilla/no framework) + python (basic)
