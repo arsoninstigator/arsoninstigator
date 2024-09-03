@@ -14,6 +14,9 @@ look back at what all i built and the hours i put into something like it's some 
 is so cool (everyone say thank you zach). sorry for getting emotional on main tho, it will happen again :/
 ```
 -->
+
+<img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140">
+
 i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
 
 🔭 currently working with: 
@@ -28,9 +31,6 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/recording again and making my own music
-
-![60f7e540119bfb4735b4763d0c37001f](https://github.com/user-attachments/assets/babee5c6-4bec-4bb2-9e96-c8b1a6902c81)
-
 
  🌱 currently learning:
 - html/css/javascript (vanilla/no framework) + python (basic)
