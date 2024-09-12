@@ -27,7 +27,7 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - physical media (scrapbooking/collaging/crafting/combining multiple forms)
 
 🥐 currently working on:
-- hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects
+<!-- - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects -->
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/recording again and making my own music
@@ -39,11 +39,12 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - introductory cybersecurity concepts + data privacy/cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
-- tools for ongoing #ysws programs at hack club (sprig, onboard, blot)
+- introductory electronics (pcbs & microcontrollers), micropython + arduino
+<!-- - tools for ongoing #ysws programs at hack club (sprig, onboard, blot) -->
 
 👾 want to learn (in the future):
-- introduction to electronics (w printed circuit boards @easyeda + kicad)
-- working with microcontrollers
+<!-- - introduction to electronics (w printed circuit boards @easyeda + kicad)
+- working with microcontrollers -->
 - combining hardware + firmware in one project
 - building personal gaming pc / mechanical keyboard
 
