@@ -24,13 +24,15 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - procreate/ibispaint/canva
 - blender
 - adobe illustrator (beginner)
-- physical media (scrapbooking/collaging/crafting/combining multiple forms)
+- physical media & crafts (scrapbooking/collages/mixed media art)
 
 🥐 currently working on:
 <!-- - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects -->
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
-- recording/writing/editing/recording again and making my own music
+- recording/writing/editing/re-recording and making my own music
+- tinkering around with electronics to build funky stuff 
+- building [llm's](https://github.com/arsoninstigator/yubikey-ysws) & [macropads](https://github.com/arsoninstigator/macropad-ysws) from scratch, [sprig game dev](https://github.com/arsoninstigator/sprighc), blot art and pcb's
 
 <!-- <div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>-->
 
