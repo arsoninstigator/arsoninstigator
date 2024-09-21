@@ -31,8 +31,9 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/re-recording and making my own music
-- tinkering around with electronics to build funky stuff 
-- building [llm's](https://github.com/arsoninstigator/yubikey-ysws) & [macropads](https://github.com/arsoninstigator/macropad-ysws) from scratch, [sprig game dev](https://github.com/arsoninstigator/sprighc), blot art and pcb's
+- tinkering around with electronics to build fun stuff 
+- building macropads and large language models from scratch.
+- developing games for sprig, navigating art through code for blot and designing pcb's
 
 <!-- <div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>-->
 
