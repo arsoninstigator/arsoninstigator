@@ -32,8 +32,8 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/re-recording and making my own music
 - tinkering around with electronics to build fun stuff 
-- building macropads and large language models from scratch.
-- developing games for sprig, navigating art through code for blot and designing pcb's
+- building macropads and personalized large language models from scratch.
+- developing games (sprig), making art through code (blot), building an app (cider)
 
 <!-- <div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>-->
 
@@ -42,7 +42,7 @@ i'm a non traditional high school senior (graduating in december '24) from india
 - introductory cybersecurity concepts + data privacy/cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
-- introductory electronics (pcbs & microcontrollers), micropython + arduino
+- introductory electronics (pcbs & microcontrollers), micropython + arduino (bin + onboard)
 <!-- - tools for ongoing #ysws programs at hack club (sprig, onboard, blot) -->
 
 👾 want to learn (in the future):
