@@ -17,38 +17,42 @@ is so cool (everyone say thank you zach). sorry for getting emotional on main th
 
 
 
-i'm a non traditional high school senior (graduating in december '24) from india who has just started dipping their toes into the world of tech. i'm interested in pursuing cybercriminal law as a defense attorney.
+i'm a high school senior in india graduating in december '24. i've really just started dipping my toes into the world of tech and am interested in pursuing cybercriminal law.
 
 🔭 currently working with: 
 - figma
 - procreate/ibispaint/canva
 - blender
 - adobe illustrator (beginner)
-- physical media & crafts (scrapbooking/collages/mixed media art)
+- html/ css /vanilla javascript
 
 🥐 currently working on:
 <!-- - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects -->
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/re-recording and making my own music
-- tinkering around with electronics to build fun stuff 
+- tinkering around with electronics to build fun stuff
+<!--
 - building macropads and personalized large language models from scratch.
 - developing games (sprig), making art through code (blot), building an app (cider)
-
+-->
 <!-- <div style="text-align: center;"><img src="images/60f7e540119bfb4735b4763d0c37001f.gif" width="140" /></div>-->
 
  🌱 currently learning:
-- html/css/javascript (vanilla/no framework) + python (basic)
+- python
+- it fundamentals (comptia sec+)
 - introductory cybersecurity concepts + data privacy/cyberspace law
 - introduction to linux (recent transition)
 - introduction to music production w ableton
+ <!--
 - introductory electronics (pcbs & microcontrollers), micropython + arduino (bin + onboard)
+-->
 <!-- - tools for ongoing #ysws programs at hack club (sprig, onboard, blot) -->
 
 👾 want to learn (in the future):
 <!-- - introduction to electronics (w printed circuit boards @easyeda + kicad)
 - working with microcontrollers -->
-- combining hardware + firmware in one project
+- more complex projects using both printed circuit boards & firmware
 - building personal gaming pc / mechanical keyboard
 
 <!--
