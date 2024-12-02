@@ -23,11 +23,12 @@ i'm a high school senior in india graduating in december '24. i've really just s
 - figma
 - procreate/ibispaint/canva
 - blender
-- adobe illustrator (beginner)
+- adobe illustrator
 - html/ css /vanilla javascript
 
 🥐 currently working on:
 <!-- - hack club #arcade [scrapbook](https://scrapbook.hackclub.com/anne) projects -->
+- girls who code summer program / kwk programs
 - #100daysofcode streak + code challenges (through online courses)
 - building a roadmap to my goals & portfolio to document progress
 - recording/writing/editing/re-recording and making my own music
@@ -66,7 +67,7 @@ i'm a high school senior in india graduating in december '24. i've really just s
 - jewelry design and jewelry making (beaded, hand-carved wax + sandcasting) -->
 
  📫 contact me:
-send me an [email](mailto:arsoninstigator@proton.me), or contact me via [slack](https://hackclub.slack.com/team/U07BBK4KHUK)
+send me an [email](mailto:arsoninstigator@proton.me), or contact me via [slack](https://hackclub.slack.com/team/U07BBK4KHUK) or [discord](http://discordapp.com/users/arsoninstigator)
 
 <!--
 **arsoninstigator/arsoninstigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
